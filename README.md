@@ -1,1 +1,0 @@
-# dennism-android-sticky-navigation
